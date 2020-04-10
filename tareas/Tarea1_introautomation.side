@@ -192,17 +192,6 @@
       ],
       "value": "Song successfully added"
     }, {
-      "id": "3a044183-59f1-4059-b90b-a13cbfcd56fa",
-      "comment": "",
-      "command": "click",
-      "target": "css=.flash",
-      "targets": [
-        ["css=.flash", "css:finder"],
-        ["xpath=//div[@id='flash']/div", "xpath:idRelative"],
-        ["xpath=//div/div", "xpath:position"]
-      ],
-      "value": ""
-    }, {
       "id": "f5acf2a2-378d-4139-939f-497ec2e86b08",
       "comment": "",
       "command": "click",
